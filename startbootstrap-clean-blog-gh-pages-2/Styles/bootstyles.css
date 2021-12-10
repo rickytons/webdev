@@ -1,0 +1,48 @@
+
+.common{
+        background-color: thistle;
+        border: solid 2px white;
+        position: absolute;
+
+}
+
+.header{
+
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    height: 170px;
+
+}
+
+.mainbody{
+
+    top: 200px;
+    left: 15px;
+    right: 15px;
+    height: 450px;
+    bottom: 20px;
+
+}
+
+.footer{
+        bottom: 1px;
+        left: 15px;
+        right: 15px;
+        position: fixed;
+
+
+
+
+}
+.footer2{
+    font-style: italic;
+    color: tomato;
+}
+
+.header2{
+
+font-style: normal;
+font-size: 25px;
+
+}
